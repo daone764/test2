@@ -1,0 +1,29 @@
+﻿Page ,URL ,3PD service 
+About You Address ,"url=""https://amer-staging.spectrum.precisely.com/rest/HartfordGeocoder/results.xml",GeoCoding
+,"url=""https://amer-staging.spectrum.precisely.com/rest/ValidateMailingAddressUSCAN/results.xml",Address Validation 
+,"url=""https://amer-staging.spectrum.precisely.com/rest/HartfordGeocoder/results.xml",Pitney Bowes Tax Code 
+,"url=""https://srvcs-igwqa.thehartford.com/gateway/services/FindPerilsService/gateway/services/FindPerilsService",Find Peril Windpool
+,"url=""https://srvcs-igwqa.thehartford.com/gateway/services/FindPerilsService/gateway/services/FindPerilsService""",FindPerilBrushFire
+,"url=""https://srvcs-igwqa.thehartford.com/gateway/services/FindPerilsService/gateway/services/FindPerilsService""",Find Peril Coastline 
+,,
+Other PolicyHolders ," url=""https://api.hazardhub.com/v1/risks",HAZARD Hub Wildfire Risk 
+,"url=""https://acceptance.360-value.com/apps/iv/services/valuation",ISO Prefill
+,"url=""https://t.decisioning.lexisnexisrisk.com/duckcreek_hartford/risk",Insurance Score 
+,,
+Screening,"url=""https://acceptance.360-value.com/apps/iv/services/valuation",ISO 360Value Prefill
+,"url=""https://flow.capeanalytics.com/api/v2/describe_location""",Cape Analytics 
+,"url=""https://api.buildfax.com/address/property-insights",Build Fax
+,,
+Enter Email to see Quote ,"url=""https://services-t.aarp.org/test/aai/login",AARP Inquiry
+,"url=""https://srvcs-igwqa.thehartford.com/wildfire_scoring/rest/pl/v1"" ",ERM Wildfire Scoring 
+,"url=""https://flow.capeanalytics.com/api/v2/describe_location""",Roof Symbol Model 
+,"url=""https://t.decisioning.lexisnexisrisk.com/duckcreek_hartford/risk",AUTO CLUE
+,"url=""https://t.decisioning.lexisnexisrisk.com/duckcreek_hartford/risk"" ",PROPERTY CLUE 
+,,
+,,
+Property Review ," url=""https://acceptance.360-value.com/apps/iv/services/valuation""",ISO 360 Value Revaluation 
+,https://t.decisioning.lexisnexisrisk.com/duckcreek_hartford/risk,Roof Symbol Model 
+,,
+,,
+,,
+Construction,"url=""https://acceptance.360-value.com/apps/iv/services/valuation""",ISO 360Value Prefill
